@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/StartEasy.iml" filepath="$PROJECT_DIR$/.idea/StartEasy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../starteasyv1/.idea/starteasyv1.iml" filepath="$PROJECT_DIR$/../starteasyv1/.idea/starteasyv1.iml" />
     </modules>
   </component>
 </project>
